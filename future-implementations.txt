@@ -1,0 +1,35 @@
+Future Enhancements for Rock Paper Scissors Project
+====================================================
+
+1. Advanced AI Strategies
+   - Implement more sophisticated bots (e.g., Markov models, neural networks, reinforcement learning).
+   - Add a bot tournament mode to compare strategies.
+
+2. Web or GUI Interface
+   - Build a simple web app (using Flask, Django, or FastAPI) for interactive play.
+   - Add a desktop GUI (using Tkinter or PyQt).
+
+3. Statistics & Analytics
+   - Track and display detailed match statistics (win/loss streaks, move frequencies).
+   - Visualize results with charts (matplotlib or plotly).
+
+4. Customization
+   - Allow users to configure number of rounds, bot difficulty, or add custom bots via config files.
+
+5. Multiplayer Support
+   - Add support for two human players (local or networked).
+
+6. Documentation & Examples
+   - Provide example strategies and a template for new bots.
+   - Add more detailed docstrings and usage examples.
+
+7. Packaging & Distribution
+   - Package as a Python module (with setup.py or pyproject.toml).
+   - Publish to PyPI for easy installation.
+
+8. Continuous Integration
+   - Add GitHub Actions or similar for automated testing and linting.
+
+9. Licensing & Community
+   - Choose and add a proper open-source license.
+   - Add a code of conduct and issue templates for contributors.
